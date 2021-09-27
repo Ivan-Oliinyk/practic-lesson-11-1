@@ -5,4 +5,4 @@ function t(t,e){if(!(t instanceof e))throw new TypeError("Cannot call a class as
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/testing_1"),require("./js/dataPractic");
 },{"./js/testing_1":"rEjx","./js/dataPractic":"kKzv"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.07a39bd7.js.map
+//# sourceMappingURL=/practic-lesson-11-1/src.07a39bd7.js.map
